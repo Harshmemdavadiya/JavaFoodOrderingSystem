@@ -11,7 +11,7 @@
     <link href="../css/font-awesome.min.css" rel="stylesheet" />
     <link href="../css/animsition.min.css" rel="stylesheet" />
     <link href="../css/animate.css" rel="stylesheet" />
-    <link href="home.css" rel="stylesheet" />
+    <link href="home.css" rel="styesheet" />
     <link href="../css/style.css" rel="stylesheet" />
 
     <style>
