@@ -172,22 +172,41 @@ http://localhost:8080/FoodOrderingSystem/
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-> Add your project screenshots here.
+### 🏠 Home
+![Home](screenshot/Home.png)
 
-```
-screenshots/
-│
-├── home.png
-├── login.png
-├── register.png
-├── menu.png
-├── cart.png
-├── checkout.png
-├── admin-dashboard.png
-├── orders.png
-```
+### 🏠 Home Page 2
+![Home1](screenshot/Home1..png)
+
+### 🏠 Home Page 3
+![Home2](screenshot/Home2.png)
+
+### 🏠 Home Page 4
+![Home3](screenshot/Home3.png)
+
+### 🔑 Login
+![Login](screenshot/Login.png)
+
+### 📝 Signup
+![Signup](screenshot/Singup.png)
+
+### 🔐 Forgot Password
+![Forgot Password](screenshot/Forgetpass.png)
+
+### 📩 OTP Verification
+![OTP](screenshot/OTP.png)
+
+### 🔄 Reset Password
+![Reset Password](screenshot/Resetpass.png)
+
+### ℹ️ About Us
+![About Us](screenshot/Aboutus.png)
+
+### 📞 Contact Us
+![Contact Us](screenshot/Contactus.png) 
+
 
 ---
 
